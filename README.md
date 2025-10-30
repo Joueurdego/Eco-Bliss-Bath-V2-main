@@ -42,3 +42,5 @@ npx cypress open
 Sélectionner E2E Testing et sélectionner Chrome
 # Exécuter les test Cypress
 Cliquer sur l'onglet Specs  et enfin sélectionner le test à exécuter  
+# Bilan 
+rendez vous dans le dossier racine et sélectionner le fichier PDF "Bilan des tests"
