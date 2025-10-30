@@ -1,6 +1,6 @@
 <div align="center">
 
-# OpenClassrooms - Eco-Bliss-Bath
+# Eco-Bliss-Bath
 </div>
 
 <p align="center">
@@ -19,10 +19,9 @@ Pour démarrer cet applicatif web vous devez avoir les outils suivants:
 # Installation et démarrage
 Clonez le projet pour le récupérer
 ``` 
-git clone https://github.com/OpenClassrooms-Student-Center/Eco-Bliss-Bath-V2.git
-cd Eco-Bliss-Bath-V2
+https://github.com/Joueurdego/Eco-Bliss-Bath-V2-main.git
 ```
-Pour démarrer l'API avec ça base de données.
+Pour démarrer l'API avec ça base de données, depuis le dossier racine :
 ```
 docker compose up -d
 ```
@@ -31,10 +30,17 @@ Rendez-vous dans le dossier frontend
 ```
 cd ./frontend
 ```
-Installez les dépendances du projet
+Lancé le serveur local 
 ```
-npm i
-ou
-npm install (si vous préférez)
+npm run start
 ```
-
+# Lancé Cypress
+Dans le dossier frontend
+```
+npx cypress open
+```
+Sélectionner E2E Testing
+Sélectionner Chrome
+# Exécuter les test Cypress
+Cliquer sur l'onglet Specs 
+Sélectionner le test à exécuter  
