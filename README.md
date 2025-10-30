@@ -39,8 +39,6 @@ Dans le dossier frontend
 ```
 npx cypress open
 ```
-Sélectionner E2E Testing
-Sélectionner Chrome
+Sélectionner E2E Testing et sélectionner Chrome
 # Exécuter les test Cypress
-Cliquer sur l'onglet Specs 
-Sélectionner le test à exécuter  
+Cliquer sur l'onglet Specs  et enfin sélectionner le test à exécuter  
